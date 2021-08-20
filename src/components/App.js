@@ -8,7 +8,8 @@ function App() {
   return (
     <div>
       <NavBar color="black" title="Giphy Search" />
-    <GifListContainer/>
+      <GifListContainer />
+      
     </div>
   );
 }
